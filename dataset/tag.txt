@@ -1,10 +1,10 @@
 <pad>
-B-PER
-I-PER
-B-LOC
-I-LOC
-B-ORG
-I-ORG
+B-Location
+I-Location
+B-Time
+I-Time
+B-Level
+I-Level
 O
 <START>
 <EOS>
